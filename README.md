@@ -14,6 +14,7 @@ The dashboard includes the following visualizations:
 7. Count of Users by Country: Geographical distribution of Netflix users.
 8. Age Group and Gender Distribution: Combines age group analysis with gender for detailed user demographics.
 9. Monthly Revenue by Country: Displays revenue trends across different countries.
+10. Interactivity filter added to "Monthly Revenuue By Country"
     
      Dataset:-
 The dataset used in this project includes the following fields:
@@ -46,10 +47,10 @@ The Tableau dashboard enables users to:
    - Ensure Tableau Desktop is installed on your machine. Open the `.twbx` file to view the dashboard.
   
      Key Insights:-
-- The Basic Plan generates the highest revenue among all subscription types.  
-- Laptop devices dominate user preferences for streaming Netflix content.  
-- The 20-30 age group forms the largest segment of users.  
-- United States leads in both user count and revenue generation.
+- The "Basic Plan" generates the highest revenue among all subscription types.  
+- "Laptop" devices dominate user preferences for streaming Netflix content.  
+- The "20-30 age group" forms the largest segment of users.  
+- "United States" leads in both user count and revenue generation.
 
    Repository Contents:-
 This repository includes:
