@@ -55,7 +55,7 @@ The Tableau dashboard enables users to:
    Repository Contents:-
 This repository includes:
 - `Netflix_Dashboard.twbx`: The Tableau packaged workbook file.
-- `Dataset.csv`: The raw dataset used to create the dashboard.
+- Netflix_dataset.csv: The raw dataset used to create the dashboard.
 - `README.md`: Detailed project documentation.
 
   Contributing:-
